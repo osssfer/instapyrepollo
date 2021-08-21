@@ -1,7 +1,7 @@
 from instapy import InstaPy
 
-my_username = "pippes.pizza"
-my_password ="R3boll3d"
+my_username = "aldeocl"
+my_password ="ventus123"
 
 
 session = InstaPy(username= my_username, password=my_password )
